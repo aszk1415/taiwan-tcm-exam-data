@@ -1,0 +1,15 @@
+{
+  "exam_code": "107_2_2_1",
+  "year": "107",
+  "items": [
+    {
+      "id": 22,
+      "question_figures": [
+        "images/figures/q_0022_fig_01.png",
+        "images/figures/q_0022_fig_02.png",
+        "images/figures/q_0022_fig_03.png",
+        "images/figures/q_0022_fig_04.png"
+      ]
+    }
+  ]
+}

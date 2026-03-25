@@ -1,0 +1,27 @@
+{
+  "exam_code": "111_2_2_3",
+  "year": "111",
+  "items": [
+    {
+      "id": 25,
+      "question_figures": [
+        "images/figures/q_0025_fig_01.png"
+      ]
+    },
+    {
+      "id": 49,
+      "question_figures": [
+        "images/figures/q_0049_fig_01.png",
+        "images/figures/q_0049_fig_02.png",
+        "images/figures/q_0049_fig_03.png",
+        "images/figures/q_0049_fig_04.png"
+      ]
+    },
+    {
+      "id": 65,
+      "question_figures": [
+        "images/figures/q_0065_fig_01.png"
+      ]
+    }
+  ]
+}

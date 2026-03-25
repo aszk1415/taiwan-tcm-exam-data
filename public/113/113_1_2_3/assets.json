@@ -1,0 +1,30 @@
+{
+  "exam_code": "113_1_2_3",
+  "year": "113",
+  "items": [
+    {
+      "id": 24,
+      "question_figures": [
+        "images/figures/q_0024_fig_01.png"
+      ]
+    },
+    {
+      "id": 25,
+      "question_figures": [
+        "images/figures/q_0025_fig_01.png"
+      ]
+    },
+    {
+      "id": 26,
+      "question_figures": [
+        "images/figures/q_0026_fig_01.png"
+      ]
+    },
+    {
+      "id": 33,
+      "question_figures": [
+        "images/figures/q_0033_fig_01.png"
+      ]
+    }
+  ]
+}

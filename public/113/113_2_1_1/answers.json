@@ -1,0 +1,494 @@
+{
+  "exam_code": "113_2_1_1",
+  "year": "113",
+  "questions": [
+    {
+      "id": 1,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 2,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 3,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 4,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 5,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 6,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 7,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 8,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 9,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 10,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 11,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 12,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 13,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 14,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 15,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 16,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 17,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 18,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 19,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 20,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 21,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 22,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 23,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 24,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 25,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 26,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 27,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 28,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 29,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 30,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 31,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 32,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 33,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 34,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 35,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 36,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 37,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 38,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 39,
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "note": "第39題一律給分,"
+    },
+    {
+      "id": 40,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 41,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 42,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 43,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 44,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 45,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 46,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 47,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 48,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 49,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 50,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 51,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 52,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 53,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 54,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 55,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 56,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 57,
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "note": "Unresolved correction mark; check source note."
+    },
+    {
+      "id": 58,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 59,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 60,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 61,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 62,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 63,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 64,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 65,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 66,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 67,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 68,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 69,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 70,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 71,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 72,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 73,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 74,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 75,
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": 76,
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": 77,
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": 78,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 79,
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": 80,
+      "answer": [
+        "A"
+      ]
+    }
+  ]
+}

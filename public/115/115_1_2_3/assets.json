@@ -1,0 +1,34 @@
+{
+  "exam_code": "115_1_2_3",
+  "year": "115",
+  "items": [
+    {
+      "id": 23,
+      "question_figures": [
+        "images/figures/q_0023_fig_01.png",
+        "images/figures/q_0023_fig_02.png",
+        "images/figures/q_0023_fig_03.png",
+        "images/figures/q_0023_fig_04.png",
+        "images/figures/q_0023_fig_05.png"
+      ]
+    },
+    {
+      "id": 44,
+      "question_figures": [
+        "images/figures/q_0044_fig_01.png",
+        "images/figures/q_0044_fig_02.png",
+        "images/figures/q_0044_fig_03.png",
+        "images/figures/q_0044_fig_04.png",
+        "images/figures/q_0044_fig_05.png"
+      ]
+    },
+    {
+      "id": 52,
+      "question_figures": [
+        "images/figures/q_0052_fig_01.png",
+        "images/figures/q_0052_fig_02.png",
+        "images/figures/q_0052_fig_03.png"
+      ]
+    }
+  ]
+}

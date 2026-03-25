@@ -1,0 +1,30 @@
+{
+  "exam_code": "105_1_2_3",
+  "year": "105",
+  "items": [
+    {
+      "id": 19,
+      "question_figures": [
+        "images/figures/q_0019_fig_01.png"
+      ]
+    },
+    {
+      "id": 29,
+      "question_figures": [
+        "images/figures/q_0029_fig_01.png"
+      ]
+    },
+    {
+      "id": 39,
+      "question_figures": [
+        "images/figures/q_0039_fig_01.png"
+      ]
+    },
+    {
+      "id": 49,
+      "question_figures": [
+        "images/figures/q_0049_fig_01.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "exam_code": "107_2_2_3",
+  "year": "107",
+  "items": [
+    {
+      "id": 20,
+      "question_figures": [
+        "images/figures/q_0020_fig_01.png"
+      ]
+    },
+    {
+      "id": 24,
+      "question_figures": [
+        "images/figures/q_0024_fig_01.png"
+      ]
+    },
+    {
+      "id": 49,
+      "question_figures": [
+        "images/figures/q_0049_fig_01.png"
+      ]
+    },
+    {
+      "id": 53,
+      "question_figures": [
+        "images/figures/q_0053_fig_01.png"
+      ]
+    },
+    {
+      "id": 58,
+      "question_figures": [
+        "images/figures/q_0058_fig_01.png"
+      ]
+    }
+  ]
+}

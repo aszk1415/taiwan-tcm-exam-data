@@ -1,0 +1,12 @@
+{
+  "exam_code": "111_2_2_4",
+  "year": "111",
+  "items": [
+    {
+      "id": 42,
+      "question_figures": [
+        "images/figures/q_0042_fig_01.png"
+      ]
+    }
+  ]
+}

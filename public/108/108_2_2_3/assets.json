@@ -1,0 +1,24 @@
+{
+  "exam_code": "108_2_2_3",
+  "year": "108",
+  "items": [
+    {
+      "id": 34,
+      "question_figures": [
+        "images/figures/q_0034_fig_01.png"
+      ]
+    },
+    {
+      "id": 53,
+      "question_figures": [
+        "images/figures/q_0053_fig_01.png"
+      ]
+    },
+    {
+      "id": 59,
+      "question_figures": [
+        "images/figures/q_0059_fig_01.png"
+      ]
+    }
+  ]
+}

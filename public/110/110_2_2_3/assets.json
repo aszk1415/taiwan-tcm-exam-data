@@ -1,0 +1,25 @@
+{
+  "exam_code": "110_2_2_3",
+  "year": "110",
+  "items": [
+    {
+      "id": 25,
+      "question_figures": [
+        "images/figures/q_0025_fig_01.png"
+      ]
+    },
+    {
+      "id": 40,
+      "question_figures": [
+        "images/figures/q_0040_fig_01.png"
+      ]
+    },
+    {
+      "id": 53,
+      "question_figures": [
+        "images/figures/q_0053_fig_01.png",
+        "images/figures/q_0053_fig_02.png"
+      ]
+    }
+  ]
+}
