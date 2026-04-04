@@ -687,10 +687,10 @@
       "id": 69,
       "question": "下列何藥與黃柏配伍，常用於濕熱下注，足膝腫痛，痿軟無力的治療？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -727,20 +727,20 @@
       "id": 73,
       "question": "依《本草備要》記載，下列何種藥材治痘瘡血熱毒盛？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 74,
       "question": "依《本草備要》記載，下列何種藥材為祛風勝濕之要藥？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -777,10 +777,10 @@
       "id": 78,
       "question": "下列藥物中，何者常與破故紙，一木一火配合，能補精髓、壯筋骨？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -797,10 +797,10 @@
       "id": 80,
       "question": "下列何藥為治經痛要藥？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     }
   ]

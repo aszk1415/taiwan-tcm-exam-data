@@ -56,29 +56,21 @@
     },
     {
       "id": 66,
-      "question_figures": [
-        "images/figures/q_0066_fig_01.png",
-        "images/figures/q_0066_fig_02.png",
-        "images/figures/q_0066_fig_03.png",
-        "images/figures/q_0066_fig_04.png",
-        "images/figures/q_0066_fig_05.png",
-        "images/figures/q_0066_fig_06.png",
-        "images/figures/q_0066_fig_07.png",
-        "images/figures/q_0066_fig_08.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0066_A.png",
+        "B": "images/options/q_0066_B.png",
+        "C": "images/options/q_0066_C.png",
+        "D": "images/options/q_0066_D.png"
+      }
     },
     {
       "id": 67,
-      "question_figures": [
-        "images/figures/q_0067_fig_01.png",
-        "images/figures/q_0067_fig_02.png",
-        "images/figures/q_0067_fig_03.png",
-        "images/figures/q_0067_fig_04.png",
-        "images/figures/q_0067_fig_05.png",
-        "images/figures/q_0067_fig_06.png",
-        "images/figures/q_0067_fig_07.png",
-        "images/figures/q_0067_fig_08.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0067_A.png",
+        "B": "images/options/q_0067_B.png",
+        "C": "images/options/q_0067_C.png",
+        "D": "images/options/q_0067_D.png"
+      }
     },
     {
       "id": 70,
@@ -88,21 +80,21 @@
     },
     {
       "id": 75,
-      "question_figures": [
-        "images/figures/q_0075_fig_01.png",
-        "images/figures/q_0075_fig_02.png",
-        "images/figures/q_0075_fig_03.png",
-        "images/figures/q_0075_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0075_A.png",
+        "B": "images/options/q_0075_B.png",
+        "C": "images/options/q_0075_C.png",
+        "D": "images/options/q_0075_D.png"
+      }
     },
     {
       "id": 76,
-      "question_figures": [
-        "images/figures/q_0076_fig_01.png",
-        "images/figures/q_0076_fig_02.png",
-        "images/figures/q_0076_fig_03.png",
-        "images/figures/q_0076_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0076_A.png",
+        "B": "images/options/q_0076_B.png",
+        "C": "images/options/q_0076_C.png",
+        "D": "images/options/q_0076_D.png"
+      }
     },
     {
       "id": 77,
@@ -112,30 +104,30 @@
     },
     {
       "id": 78,
-      "question_figures": [
-        "images/figures/q_0078_fig_01.png",
-        "images/figures/q_0078_fig_02.png",
-        "images/figures/q_0078_fig_03.png",
-        "images/figures/q_0078_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0078_A.png",
+        "B": "images/options/q_0078_B.png",
+        "C": "images/options/q_0078_C.png",
+        "D": "images/options/q_0078_D.png"
+      }
     },
     {
       "id": 79,
-      "question_figures": [
-        "images/figures/q_0079_fig_01.png",
-        "images/figures/q_0079_fig_02.png",
-        "images/figures/q_0079_fig_03.png",
-        "images/figures/q_0079_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0079_A.png",
+        "B": "images/options/q_0079_B.png",
+        "C": "images/options/q_0079_C.png",
+        "D": "images/options/q_0079_D.png"
+      }
     },
     {
       "id": 80,
-      "question_figures": [
-        "images/figures/q_0080_fig_01.png",
-        "images/figures/q_0080_fig_02.png",
-        "images/figures/q_0080_fig_03.png",
-        "images/figures/q_0080_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0080_A.png",
+        "B": "images/options/q_0080_B.png",
+        "C": "images/options/q_0080_C.png",
+        "D": "images/options/q_0080_D.png"
+      }
     }
   ]
 }

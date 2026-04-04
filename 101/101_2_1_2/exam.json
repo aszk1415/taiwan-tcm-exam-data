@@ -657,20 +657,20 @@
       "id": 66,
       "question": "下列何者最適用於妊娠惡阻，胎動不安？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 67,
       "question": "下列何者可治療濕熱黃疸及婦女產後惡露不下？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -747,20 +747,20 @@
       "id": 75,
       "question": "下列何種藥材用於治熱病熱邪傷津，及消渴證口渴多飲？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 76,
       "question": "依《本草備要》，下列何種藥材功專利濕行水，濕熱既除，則清氣上行？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -777,30 +777,30 @@
       "id": 78,
       "question": "依《本草備要》，下列何種藥材能墜諸藥至於下極，瀉胸中至高之氣，使之下行？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 79,
       "question": "依《本草備要》，下列何種藥材多食，收令太過，令人壅氣臚脹、小兒發驚動疳？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 80,
       "question": "依《本草備要》，下列何種藥材功能蕩滌腸胃，下燥結而除瘀熱？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     }
   ]

@@ -557,10 +557,10 @@
       "id": 56,
       "question": "下列何種檢查方式，可用來檢查棘上肌肌腱損傷？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -627,10 +627,10 @@
       "id": 63,
       "question": "腎陰虛火旺可導致何種眼證？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {

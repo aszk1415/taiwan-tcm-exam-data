@@ -397,10 +397,10 @@
       "id": 40,
       "question": "下列何藥物為《宣明論方》治療瘖痱證方劑的組成之一？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -417,50 +417,50 @@
       "id": 42,
       "question": "依《本草備要》記載，下列何種藥材溫經通脈，發汗解肌，治傷風頭痛，中風自汗？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 43,
       "question": "依《本草備要》記載，下列藥材何者治本經傷風頭痛，頭暈目眩，風熱齒痛？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 44,
       "question": "依《本草備要》記載，附圖何種藥材能治上焦之風熱濕熱，火嗽喉腥，目赤腫痛？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 45,
       "question": "依《本草備要》記載，凡痰壅喘促、目赤、喉痹、咽痛，宜用下列何藥治療？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 46,
       "question": "依《本草備要》記載，下列何藥治崩帶遺精，峻補精血？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -497,20 +497,20 @@
       "id": 50,
       "question": "下圖藥物中，何者歸屬為補陽藥？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 51,
       "question": "下列何藥具有降氣消痰行水、降逆止嘔之功效，並可治水濕、痰飲內停引起的腹脹、小便不利？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -527,30 +527,30 @@
       "id": 53,
       "question": "下列何者具有瀉腎經火邪，功專利濕行水？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 54,
       "question": "下列何種藥材用於治療驚悸失眠、癲癇、驚風？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 55,
       "question": "依《本草備要》記載，下列何種藥材能瀉肺解肌，除風散寒，降氣行痰？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {

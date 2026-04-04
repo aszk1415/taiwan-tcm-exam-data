@@ -57,10 +57,10 @@
       "id": 6,
       "question": "下列何藥物為五味消毒飲的君藥？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -397,10 +397,10 @@
       "id": 40,
       "question": "《內外傷辨惑論》枳實導滯丸中的消食化滯藥是下列何者？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -497,20 +497,20 @@
       "id": 50,
       "question": "下列何種藥材配滋陰藥和清熱藥，治虛勞發熱，骨蒸潮熱？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 51,
       "question": "下列何種藥材用於治風濕痹痛，經行腹痛、牙痛，咽喉疼痛？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -597,10 +597,10 @@
       "id": 60,
       "question": "下列何藥為活血調經之要藥，並為治頭痛之要藥？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -647,10 +647,10 @@
       "id": 65,
       "question": "下列參類藥物中，何者屬於補氣藥，唯補氣藥力稍弱，體質虛弱和屬陰虛者較適宜？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -767,40 +767,40 @@
       "id": 77,
       "question": "依《本草備要》，下列何種藥材能行氣而不傷氣？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 78,
       "question": "依《本草備要》，下列何種藥材為療風水之要藥，治水腫風腫。然濕熱在上焦氣分者禁用？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 79,
       "question": "依《本草備要》，下列何藥為肺家主藥，能去營中寒邪？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
       "id": 80,
       "question": "依《本草備要》，下列何種藥材能定魄安魂，治憂恚驚悸，心下結痛，水腫淋瀝？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     }
   ]

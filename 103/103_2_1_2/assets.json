@@ -4,21 +4,21 @@
   "items": [
     {
       "id": 11,
-      "question_figures": [
-        "images/figures/q_0011_fig_01.png",
-        "images/figures/q_0011_fig_02.png",
-        "images/figures/q_0011_fig_03.png",
-        "images/figures/q_0011_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0011_A.png",
+        "B": "images/options/q_0011_B.png",
+        "C": "images/options/q_0011_C.png",
+        "D": "images/options/q_0011_D.png"
+      }
     },
     {
       "id": 12,
-      "question_figures": [
-        "images/figures/q_0012_fig_01.png",
-        "images/figures/q_0012_fig_02.png",
-        "images/figures/q_0012_fig_03.png",
-        "images/figures/q_0012_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0012_A.png",
+        "B": "images/options/q_0012_B.png",
+        "C": "images/options/q_0012_C.png",
+        "D": "images/options/q_0012_D.png"
+      }
     },
     {
       "id": 51,

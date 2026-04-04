@@ -4,12 +4,12 @@
   "items": [
     {
       "id": 49,
-      "question_figures": [
-        "images/figures/q_0049_fig_01.png",
-        "images/figures/q_0049_fig_02.png",
-        "images/figures/q_0049_fig_03.png",
-        "images/figures/q_0049_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0049_A.png",
+        "B": "images/options/q_0049_B.png",
+        "C": "images/options/q_0049_C.png",
+        "D": "images/options/q_0049_D.png"
+      }
     }
   ]
 }
