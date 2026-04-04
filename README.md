@@ -34,7 +34,6 @@ This repository contains structured data for Taiwan TCM national licensing exami
 ### 字形正規化
 
 - 本資料集統一使用「鉤藤」。國考原題中可見「鉤藤」與「鈎藤」兩種寫法；為便於檢索與資料一致性，本專案一律正規化為「鉤藤」。
-- 另將明顯誤植之「白光白」統一校正為「㿠白」。
 
 ## English
 
