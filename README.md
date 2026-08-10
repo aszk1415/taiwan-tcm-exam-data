@@ -2,6 +2,8 @@
 
 This repository contains structured data for Taiwan TCM national licensing examinations, including questions, figures, and answer keys.
 
+The dataset currently contains 180 exam papers and 14,400 questions from 101 to 115 Taiwan year notation.
+
 ## 中文版
 
 這個專案整理了臺灣中醫師國家考試的結構化資料，包含題目、圖片與答案，方便查詢、分析、訓練與前端應用。
@@ -67,4 +69,3 @@ This repository provides structured data for Taiwan TCM national licensing exami
 ### Normalization
 
 - This dataset standardizes both `鉤藤` and `鈎藤` to `鉤藤` for consistency and easier search.
-- The obvious misrendering `白光白` is corrected to `㿠白`.
