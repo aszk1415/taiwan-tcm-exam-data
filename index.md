@@ -1,7 +1,7 @@
 # Public Dataset Index
 
-- exam_count: 174
-- question_count: 13920
+- exam_count: 180
+- question_count: 14400
 
 ## 101
 
@@ -375,7 +375,19 @@
 
 - 115_1_2_1: questions=80, images=0, exam=115/115_1_2_1/exam.json
 
+- 115_2_1_1: questions=80, images=0, exam=115/115_2_1_1/exam.json
+
+- 115_2_1_2: questions=80, images=0, exam=115/115_2_1_2/exam.json
+
 - 115_1_2_2: questions=80, images=0, exam=115/115_1_2_2/exam.json
+
+- 115_2_2_1: questions=80, images=0, exam=115/115_2_2_1/exam.json
+
+- 115_2_2_2: questions=80, images=0, exam=115/115_2_2_2/exam.json
+
+- 115_2_2_3: questions=80, images=5, exam=115/115_2_2_3/exam.json
+
+- 115_2_2_4: questions=80, images=2, exam=115/115_2_2_4/exam.json
 
 - 115_1_2_3: questions=80, images=13, exam=115/115_1_2_3/exam.json
 

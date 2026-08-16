@@ -1,0 +1,18 @@
+{
+  "exam_code": "115_2_2_4",
+  "year": "115",
+  "items": [
+    {
+      "id": 61,
+      "question_figures": [
+        "images/figures/q_0061_fig_01.png"
+      ]
+    },
+    {
+      "id": 79,
+      "question_figures": [
+        "images/figures/q_0079_fig_01.png"
+      ]
+    }
+  ]
+}
